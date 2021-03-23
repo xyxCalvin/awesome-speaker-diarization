@@ -15,6 +15,10 @@ d-vector, a deep learning based method for audio representation (audio modality)
 [A Review of Speaker Diarization: Recent Advances with Deep Learning](https://arxiv.org/abs/2101.09624)
 A review of deep leaning based speaker diarization. (mostly on audio modality)
 
+[Speaker Diarization with Region Proposal Network](https://arxiv.org/abs/2002.06220)
+Migrating the Faster R-CNN method
+
+
 ## Multi-modality
 [Self-supervised learning for audio-visual speaker diarization](https://ieeexplore.ieee.org/abstract/document/9054376)
 An audio-visual methods for speaker diarization, based one contrast learning.
