@@ -24,10 +24,10 @@ Combine LSTM-based embeddings with spectral clustering
 
 
 ## Multi-modality
-[Self-supervised learning for audio-visual speaker diarization](https://ieeexplore.ieee.org/abstract/document/9054376)
+- [Self-supervised learning for audio-visual speaker diarization](https://ieeexplore.ieee.org/abstract/document/9054376)
 An audio-visual methods for speaker diarization, based one contrast learning.
 
-[Joint Speech Recognition and Speaker Diarization via Sequence Transduction](https://arxiv.org/abs/1907.05337)
+- [Joint Speech Recognition and Speaker Diarization via Sequence Transduction](https://arxiv.org/abs/1907.05337)
 Based on RNN-T structure, combine text content and voice point information.
 
 
