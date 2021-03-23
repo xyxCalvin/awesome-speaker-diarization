@@ -1,5 +1,5 @@
 # awesome-speaker-diarization
-## audio only
+## Audio-only
 - [An End-to-End Speaker Diarization Service for improving Multimedia Content Access](https://nem-initiative.org/wp-content/uploads/2020/07/1-4-an_end_to_end_speaker_diarization_service_for_improving_multimedia_content_access.pdf)
 An introduction to basic methods for speaker diarization. (statistic based and DL based)
 
