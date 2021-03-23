@@ -23,6 +23,10 @@ Migrate the Faster R-CNN method
 Combine LSTM-based embeddings with spectral clustering
 
 
+- [Low-dimensional speech representation based on Factor Analysis and its applications](http://people.csail.mit.edu/sshum/talks/ivector_tutorial_interspeech_27Aug2011.pdf) 
+Tutorial for i-vectors
+
+
 ## Multi-modality
 - [Self-supervised learning for audio-visual speaker diarization](https://ieeexplore.ieee.org/abstract/document/9054376)
 An audio-visual methods for speaker diarization, based one contrast learning.
