@@ -27,6 +27,13 @@ Combine LSTM-based embeddings with spectral clustering
 Tutorial for i-vectors
 
 
+- [Fully supervised speaker diarization](https://ieeexplore.ieee.org/abstract/document/8683892) 
+UIS-RNN: A fully supervised approach which handles an unbound number of speakers using an online generative process.
+
+- [Supervised Online Diarization with Sample Mean Loss for Multi-Domain Data](https://ieeexplore.ieee.org/abstract/document/9053477) 
+Enhance UIS-RNN.
+
+
 
 
 ## Multi-modality
