@@ -7,7 +7,7 @@ An introduction to basic methods for speaker diarization. (statistic based and D
 TS-VAD method for speaker diarization on audio model. (signal/ multi channel & signal/ multi speaker)
 
 - [Front-End Factor Analysis for Speaker Verification](https://ieeexplore.ieee.org/abstract/document/5545402/)
-i-vector, a statistic methods for audio representation (audio modality)
+i-vector, a statistic methods for audio representation (audio modality) (i-vector represent a given utterance with a single fixed-dimensional feature vector.)
 
 - [Deep Neural Networks for Small Footprint Text-Dependent Speaker Verification](https://ieeexplore.ieee.org/abstract/document/6854363)
 d-vector, a deep learning based method for audio representation (audio modality)
@@ -25,6 +25,8 @@ Combine LSTM-based embeddings with spectral clustering
 
 - [Low-dimensional speech representation based on Factor Analysis and its applications](http://people.csail.mit.edu/sshum/talks/ivector_tutorial_interspeech_27Aug2011.pdf) 
 Tutorial for i-vectors
+
+
 
 
 ## Multi-modality
