@@ -44,4 +44,17 @@ An audio-visual methods for speaker diarization, based one contrast learning.
 Based on RNN-T structure, combine text content and voice point information.
 
 
+
+ ## Audio-Visual Localization
+ - [Audio-Visual Event Localization in Unconstrained Videos](https://openaccess.thecvf.com/content_ECCV_2018/html/Yapeng_Tian_Audio-Visual_Event_Localization_ECCV_2018_paper.html)
+ Cross modal attention for localization. Aligned frames' features are closer.
+ 
+ - [Dual Attention Matching for Audio-Visual Event Localization](https://openaccess.thecvf.com/content_ICCV_2019/html/Wu_Dual_Attention_Matching_for_Audio-Visual_Event_Localization_ICCV_2019_paper.html)
+ Combine local feature and global feature to estimate relevant frames.
+ 
+ - [Learning to Localize Sound Sources in Visual Scenes](https://openaccess.thecvf.com/content_cvpr_2018/html/Senocak_Learning_to_Localize_CVPR_2018_paper.html)
+Cross modal attention and contrastive learning. 
+
+- [Multiple Sound Sources Localization from Coarse to Fine](https://link.springer.com/content/pdf/10.1007/978-3-030-58565-5_18.pdf)
+Leverage CAM to sound source localization.
  
