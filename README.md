@@ -4,7 +4,6 @@
 A free speaker diarization dataset.(Large dataset with overlapping speeches and background noise)
 ## Audio-only
 - [An End-to-End Speaker Diarization Service for improving Multimedia Content Access](https://nem-initiative.org/wp-content/uploads/2020/07/1-4-an_end_to_end_speaker_diarization_service_for_improving_multimedia_content_access.pdf) (MARTÍN-GUTIÉRREZ, D. A. V. I. D., et al.)
-
 An introduction to basic methods for speaker diarization. (statistic based and DL based)
 
 - [Target-Speaker Voice Activity Detection: a Novel Approach for Multi-Speaker Diarization in a Dinner Party Scenario](https://arxiv.org/abs/2005.07272) (Medennikov I, Korenevsky M, Prisyach T, et al. )
