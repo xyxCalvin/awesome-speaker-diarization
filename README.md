@@ -49,6 +49,16 @@ Based on RNN-T structure, combine text content and voice point information.
 - [Look Who's Not Talking](https://arxiv.org/abs/2011.14885) (Kwon Y, Heo H S, Huh J, et al. (VGG))
 Since the speaker embeddings are able to discriminate one person's speech from another, it might be able to discriminate speech from non-speech.
 
+- [Visual speech enhancement](https://arxiv.org/abs/1711.08789) (Gabbay, Aviv and Shamir)
+Combine video frames and mix audio to generate clean audio.
+
+
+- [Self-Supervised Learning of Audio-Visual Objects from Video](https://arxiv.org/abs/2008.04237) (Afouras, Triantafyllos and Owens)
+Leverage cross modal attention to contrastive learning.
+
+- [Self-supervised learning for audio-visual speaker diarization](https://arxiv.org/abs/2002.05314) (Ding. Yifan and Xu. Yong)
+Define three level negative pairs for contrastive learning.
+
 
  ## Audio-Visual Localization
  - [Audio-Visual Event Localization in Unconstrained Videos](https://openaccess.thecvf.com/content_ECCV_2018/html/Yapeng_Tian_Audio-Visual_Event_Localization_ECCV_2018_paper.html) (Tian Y, Shi J, Li B, et al. ECCV, 2018)
