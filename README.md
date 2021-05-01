@@ -32,7 +32,7 @@
 
 #### 2019
 * [Supervised online diarization with sample mean loss for multi-domain data](https://arxiv.org/abs/1911.01266)
-* [Discriminative Neural Clustering for Speaker Diarisation](https://arxiv.org/abs/1910.09703), 2019
+* [Discriminative Neural Clustering for Speaker Diarisation](https://arxiv.org/abs/1910.09703)
 * [End-to-End Neural Speaker Diarization with Permutation-Free Objectives](https://arxiv.org/abs/1909.05952)
 * [Overlap-aware diarization: resegmentation using neural end-to-end overlapped speech detection](https://arxiv.org/abs/1910.11646)
 * [Speaker diarization using latent space clustering in generative adversarial network](https://arxiv.org/abs/1910.11398)
