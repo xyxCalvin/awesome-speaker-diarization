@@ -22,6 +22,9 @@
 
 ### Audio-only Speaker Diarization
 
+#### 2021
+* [Online End-To-End Neural Diarization with Speaker-Tracing Buffer](https://arxiv.org/pdf/2006.02616v2.pdf)
+
 #### 2020
 
 * [Online Speaker Diarization with Relation Network](https://arxiv.org/abs/2009.08162)
