@@ -1,6 +1,17 @@
 # awesome-speaker-diarization
 
-[toc]
+## Content
+* [Publications](#Publications)
+  * [Reviews](#Reviews)
+  * [Audio-only Speaker Diarization](#Audio-only-Speaker-Diarization)
+  * [Multimodal Speaker Diarization](#Multimodal-Speaker-Diarization)
+  * [Others: Audio-Visual Related Works](#Others:-Audio-Visual-Related-Works)
+* [Datasets](#Datasets)
+  * [Audio-Visual Datasets](#Audio-Visual-Datasets)
+* [Tutorials](#Tutorials)
+* [Books](#Books)
+* [Acknowledgement](#Acknowledgement)
+
 
 ## Publications
 
