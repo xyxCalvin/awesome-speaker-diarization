@@ -5,7 +5,7 @@
   * [Reviews](#Reviews)
   * [Audio-only Speaker Diarization](#Audio-only-Speaker-Diarization)
   * [Multimodal Speaker Diarization](#Multimodal-Speaker-Diarization)
-  * [Other Audio-Visual Related Works](#Other-Audio-Visual-Related-Works)
+  * [Other Audio-Visual Related Work](#Other-Audio-Visual-Related-Work)
 * [Datasets](#Datasets)
   * [Audio-Visual Datasets](#Audio-Visual-Datasets)
 * [Tutorials](#Tutorials)
@@ -77,7 +77,7 @@
 
 
 
-### Other Audio-Visual Related Works
+### Other Audio-Visual Related Work
 #### 2020
 * [Self-Supervised Learning of Audio-Visual Objects from Video](https://arxiv.org/abs/2008.04237) (Afouras, Triantafyllos and Owens) Leverage cross modal attention to contrastive learning.
 
